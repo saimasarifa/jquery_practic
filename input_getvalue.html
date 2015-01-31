@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+
+</head>
+<body>
+
+<p>Name: <input type="text" id="test" value="Mickey Mouse"></p>
+
+<button>Show Value</button>
+
+<script>
+    $(document).ready(function(){
+        $("button").click(function(){
+            alert("Value: " + $("#test").val());
+        });
+    });
+</script>
+
+</body>
+</html>
