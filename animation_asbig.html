@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+
+</head>
+<body>
+
+<button id="forbig">Start Animation</button>
+
+<p> by clicking it wll go big and bigger </p>
+
+<div style="background:#98bf21;height:100px;width:100px;position:absolute;"></div>
+<script>
+    $(document).ready(function(){
+        $("#forbig").click(function(){
+            $("div").animate({
+                left: '250px',
+                height: '+=150px',
+                width: '+=150px'
+            });
+        });
+    });
+</script>
+
+</body>
+</html>
