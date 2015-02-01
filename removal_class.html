@@ -7,32 +7,33 @@
         .important {
             font-weight: bold;
             font-size: xx-large;
-            color: red;
         }
 
         .blue {
             color: blue;
         }
+        .red{
+            color: red;
+        }
     </style>
 </head>
 <body>
 
-<h1>Heading 1</h1>
-<h2>Heading 2</h2>
+<h1 class="blue">Heading 1</h1>
+<h2 class="blue">Heading 2</h2>
 
-<p>This is a paragraph.</p>
+<p class="blue">This is a paragraph.</p>
 <p>This is another paragraph.</p>
-
-<div>This is some important text!</div><br>
-
-<button>Add classes to elements</button>
-
-<script type="text/javascript">
-
+<p>This is another paragraph.</p>
+<div>what is this</div>
+<button>Remove class from elements</button>
+<script>
     $(document).ready(function(){
         $("button").click(function(){
-            $("h1, h2, p").addClass("blue");//up there is  .blue so its a class
-            $("div").addClass("important");//to make both its  addClass("important blue")
+            $("h1, h2, p").removeClass("blue");
+            $("div").addClass("red");
+
+
         });
     });
 </script>
