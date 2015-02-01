@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="db444783-b60f-497a-9294-aa0fd53a973f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cvasM.odt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/by_selection.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/first_method.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/get_externaltext.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/select_withindex.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/selector_1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/attribute_inselection.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/input_selector.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/selector_animated.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="jquery_practic.iws" />
@@ -33,48 +30,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="for_empty.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/for_empty.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-11.125" vertical-offset="78" max-vertical-offset="510">
-              <caret line="23" column="74" selection-start-line="23" selection-start-column="74" selection-end-line="23" selection-end-column="74" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pointout_important.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pointout_important.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.625" vertical-offset="303" max-vertical-offset="690">
-              <caret line="34" column="87" selection-start-line="34" selection-start-column="87" selection-end-line="34" selection-end-column="87" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="removal_class.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/removal_class.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.375" vertical-offset="318" max-vertical-offset="705">
-              <caret line="25" column="33" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="goo_toogle.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/goo_toogle.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-12.375" vertical-offset="78" max-vertical-offset="525">
-              <caret line="25" column="29" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="first_method.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/first_method.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -128,11 +83,55 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="by_selection.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="by_selection.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/by_selection.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5426357" vertical-offset="0" max-vertical-offset="525">
+            <state vertical-scroll-proportion="-8.75" vertical-offset="0" max-vertical-offset="525">
               <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="multi_selection.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/multi_selection.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-10.0" vertical-offset="0" max-vertical-offset="420">
+              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="selector_animated.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/selector_animated.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-10.0" vertical-offset="90" max-vertical-offset="510">
+              <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="attribute_inselection.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/attribute_inselection.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-10.5" vertical-offset="33" max-vertical-offset="480">
+              <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="input_selector.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/input_selector.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.6976744" vertical-offset="0" max-vertical-offset="465">
+              <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -181,6 +180,10 @@
         <option value="$PROJECT_DIR$/get_externaltext.html" />
         <option value="$PROJECT_DIR$/selector_1.html" />
         <option value="$PROJECT_DIR$/by_selection.html" />
+        <option value="$PROJECT_DIR$/multi_selection.html" />
+        <option value="$PROJECT_DIR$/selector_animated.html" />
+        <option value="$PROJECT_DIR$/attribute_inselection.html" />
+        <option value="$PROJECT_DIR$/input_selector.html" />
       </list>
     </option>
   </component>
@@ -689,8 +692,44 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/by_selection.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5426357" vertical-offset="0" max-vertical-offset="525">
+        <state vertical-scroll-proportion="-8.75" vertical-offset="0" max-vertical-offset="525">
           <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multi_selection.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.0" vertical-offset="0" max-vertical-offset="420">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/selector_animated.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.0" vertical-offset="90" max-vertical-offset="510">
+          <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attribute_inselection.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.5" vertical-offset="33" max-vertical-offset="480">
+          <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input_selector.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6976744" vertical-offset="0" max-vertical-offset="465">
+          <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
           <folding />
         </state>
       </provider>
