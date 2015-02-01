@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+
+</head>
+<body>
+
+<h1>Welcome to My Homepage</h1>
+
+<p class="intro">My name is Donald.</p>
+<p>I live in Duckburg.</p>
+
+<div class="intro">My name is Dolly.</div>
+<p>I live in Duckburg.</p>
+<div id="intro">My name is Donald.<div>
+
+<script>
+    $(document).ready(function(){
+        $(".intro").css("background-color","yellow");
+        $("#intro").css("background-color","red");
+        $("p").css("background-color","green");
+
+
+    });
+</script>
+
+</body>
+</html>
